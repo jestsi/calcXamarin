@@ -1,0 +1,15 @@
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\bin\Release\netstandard2.0\TestAppXamarin.deps.json
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\bin\Release\netstandard2.0\TestAppXamarin.dll
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\bin\Release\netstandard2.0\TestAppXamarin.pdb
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.csproj.AssemblyReference.cache
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.AssemblyInfoInputs.cache
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.AssemblyInfo.cs
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\XamlC.stamp
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.dll
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\refint\TestAppXamarin.dll
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\TestAppXamarin.pdb
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Release\netstandard2.0\ref\TestAppXamarin.dll

@@ -1,0 +1,15 @@
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\bin\Debug\netstandard2.1\TestAppXamarin.deps.json
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\bin\Debug\netstandard2.1\TestAppXamarin.dll
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\bin\Debug\netstandard2.1\TestAppXamarin.pdb
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.csproj.AssemblyReference.cache
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.AssemblyInfoInputs.cache
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.AssemblyInfo.cs
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.dll
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\refint\TestAppXamarin.dll
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\TestAppXamarin.pdb
+C:\Projects\CSharp\TestAppXamarin\TestAppXamarin\TestAppXamarin\obj\Debug\netstandard2.1\ref\TestAppXamarin.dll

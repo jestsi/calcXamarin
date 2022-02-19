@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestAppXamarin"
+             x:Class="TestAppXamarin.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Name="buttonStyle1" x:Key="buttonStyle1" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="White"/>
+                <Setter Property="HeightRequest" Value="90"/>
+                <Setter Property="WidthRequest" Value="90"/>
+                <Setter Property="CornerRadius" Value="50"/>
+                <Setter Property="TextColor" Value="{local:ARGBColor Alpha=255, Red=106, Green=157, Blue=150}"/>
+                <Setter Property="FontSize" Value="35"/>
+            </Style>
+            <Style x:Name="buttonStyle2" x:Key="buttonStyle2" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="HeightRequest" Value="90"/>
+                <Setter Property="WidthRequest" Value="90"/>
+                <Setter Property="CornerRadius" Value="50"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="35"/>
+            </Style>
+            
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <Grid x:Name="mainGrid" BackgroundColor="{local:ARGBColor Alpha=255, Red=40, Green=54, Blue=55}">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition  />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="plusButton" Text="+" Grid.Row="2" 
+            Grid.Column="0"
+                CornerRadius="50" 
+                FontSize="35" 
+                BackgroundColor="{local:ARGBColor Alpha=255, Red=107, Green=127, Blue=125}"
+                TextColor="White"
+                Margin="10, 0, 0, 0"
+                Clicked="btn_Clicked"/>
+
+        <Button x:Name="minusButton" Text="-"  Grid.Row="2" 
+                Grid.Column="1" 
+                CornerRadius="50" 
+                BackgroundColor="{local:ARGBColor Alpha=255, Red=107, Green=127, Blue=125}" 
+                TextColor="White" 
+                FontSize="35"
+                Clicked="btn_Clicked"/>
+
+        <Button x:Name="delitButton"  Text="÷" Grid.Row="2" Grid.Column="2" Clicked="btn_Clicked" Style="{StaticResource buttonStyle1}"/>
+
+        <Button x:Name="multButton" Text="×" Grid.Row="2" Grid.Column="3" Clicked="btn_Clicked" Style="{StaticResource buttonStyle1}"/>
+
+        <Button x:Name="successButton" Text="=" Grid.Row="6" Grid.Column="3" FontSize="50" Clicked="successButton_Clicked" Style="{StaticResource buttonStyle1}" />
+
+        <Button x:Name="delitAnProcentButton" Text="%" Grid.Row="4" Grid.Column="3" Clicked="btn_Clicked" Style="{StaticResource buttonStyle1}"/>
+
+        <Button x:Name="stepenButton" Text="^" Grid.Row="5" Grid.Column="3" Clicked="btn_Clicked" Style="{StaticResource buttonStyle1}"/>
+
+        <Button x:Name="ClearButton" Text="C" Grid.Row="3" Grid.Column="3" Clicked="ClearButton_Clicked" Style="{StaticResource buttonStyle1}"/>
+
+        <Button x:Name="removeLastButton" Text="±" Grid.Row="6" Grid.Column="0" Clicked="removeLastButton_Clicked" Style="{StaticResource buttonStyle2}" />
+
+        <Button x:Name="pointButton" Text="."  Grid.Row="6" Grid.Column="2" Clicked="Btn_Clicked" Style="{StaticResource buttonStyle2}"/>
+
+        <Label x:Name="textBoxHistory" VerticalTextAlignment="End" 
+               HorizontalTextAlignment="End" Padding="30"  
+               Grid.Row="0"  Grid.Column="0" Grid.ColumnSpan="5"
+               FontFamily="Tahoma" Text=""  FontAttributes="Bold" 
+               FontSize="30" TextColor="LightGray"/>
+        <Button BackgroundColor="Transparent" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="5" Clicked="Button_Clicked"/>
+
+        <Label x:Name="textBox" VerticalTextAlignment="End" 
+               HorizontalTextAlignment="End" Padding="30"  
+               Grid.Row="1"  Grid.Column="0" Grid.ColumnSpan="5"
+               FontFamily="Tahoma" Text=""  FontAttributes="Bold" 
+               FontSize="50" TextColor="White"/>
+    </Grid>
+</ContentPage>
